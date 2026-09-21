@@ -83,10 +83,6 @@ The analysis and dashboard help identify:
 - Data Visualization
 - Business Intelligence
 
-## Project Files
-
-The repository contains the dataset, Excel analysis, Power BI dashboard, documentation, and supporting screenshots.
-
 ## Conclusion
 
 This project demonstrates the use of data analytics and business intelligence techniques to transform raw retail sales data into meaningful business insights. Excel was used for data analysis, while Power BI was used to create an interactive dashboard for effective visualization and decision-making.
